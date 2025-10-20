@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Hi, I’m Ibtihash
+🧑‍💻 About Me
 
-<!--
-**Ibtihash/Ibtihash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a MERN Stack Developer who loves building fast, responsive, and scalable web applications.
+I specialize in full-stack JavaScript development using the MERN stack and modern web technologies.
 
-Here are some ideas to get you started:
+💡 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End: React, HTML5, CSS3, JavaScript (ES6+)
+
+Back-End: Node.js, Express.js, REST APIs
+
+Database: MongoDB
+
+Other Skills: UI/UX, Responsive Design, Performance Optimization, Git & GitHub
+
+🧰 Tech Stack
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+⚙️ My Approach
+
+Write clean, readable, and maintainable code
+
+Stay curious and continuously learn new tools & technologies
+
+Collaborate effectively in teams and embrace feedback
+
+Focus on user experience and performance optimization
+
+📫 Connect With Me
+
+📍 GitHub: github.com/Ibtihash
+
+📧 Email: syedibtihash@gmail.com
+
+✨ Thanks for visiting — check out my projects and feel free to connect!
